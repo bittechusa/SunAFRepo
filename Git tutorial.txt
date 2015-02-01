@@ -35,3 +35,8 @@ giHow to initilize a new repository
 8. git commit -m "any coment"
 9. git pull
 10. git push (if needed git push -u origin master)
+
+
+To get a new repository into desktop
+
+git clone git@github.com:bittechusa/reponame.git
