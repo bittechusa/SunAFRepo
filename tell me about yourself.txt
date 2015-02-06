@@ -1,0 +1,9 @@
+------------------------------------------Tell me about yourself-------------------------------------------------------
+
+
+I have been working as a QA Engineer for the last 5+ years. In my current company, I am responsible for testing company's web based application. I am expert in testing web application manually and also automatically using automation tools like selenium. We are following Agile as a process for Software Development. Used JIRA for project and bug tracking.
+Selenium RC and WebDriver API for fuctional and Regression testing, Java for coding , Junit for testing framework. Used page object model for organizing automation code so that script can be more business reabable and easy maintainace. Maven for project building, jenkins for continuous integration and scheduling test run on nightly basis.
+Used git as a version control. I run SQL query for database validation. I have to provide server logs stored in linux OS so I am also good with executing linux basic commands like head, tail, cp, ls, pa, find etc. I have sound knowledge of Web Fundamentals like I know HTML, DOM, CSS, JavaScript, JQUERY. As I needed to handle ajax call so I needed to know client side and server side language. I used different types of debugging tools like firebug, charles, fidler. Needed to track http call with GET and POST method. One more thing I also forgot to mention that I used Selenium Grid for cross browsing and parallel testing. 
+So, If I summerize myself, I will expert in Web Based application testing manually and using automation tools.
+
+
