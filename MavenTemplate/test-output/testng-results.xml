@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9124" started-at="2015-01-28T03:19:41Z" finished-at="2015-01-28T03:19:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9124" started-at="2015-01-28T03:19:41Z" finished-at="2015-01-28T03:19:50Z">
+      <class name="com.bit.test.SmokeTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.bit.test.SmokeTest@6fadae5d]" name="setup" is-config="true" duration-ms="2309" started-at="2015-01-27T22:19:41Z" finished-at="2015-01-27T22:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="teachwise()[pri:0, instance:com.bit.test.SmokeTest@6fadae5d]" name="teachwise" duration-ms="6800" started-at="2015-01-27T22:19:43Z" finished-at="2015-01-27T22:19:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teachwise -->
+        <test-method status="PASS" signature="after()[pri:0, instance:com.bit.test.SmokeTest@6fadae5d]" name="after" is-config="true" duration-ms="5" started-at="2015-01-27T22:19:50Z" finished-at="2015-01-27T22:19:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- com.bit.test.SmokeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

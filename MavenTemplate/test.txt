@@ -1,0 +1,52 @@
+2015-01-27 22:19:50,311 INFO  [SmokeTest] Book name : 100th Day of School Mystery! Logic Puzzle for Early Primary 
+2015-01-27 22:19:50,331 INFO  [SmokeTest] Test result typed :100th Day of School Mystery! Logic Puzzle for Early Primary 
+2015-01-27 22:19:50,339 ERROR [SmokeTest] Product matched for position[1] 
+2015-01-27 22:19:50,348 INFO  [SmokeTest] Book name : Battle of Gettysburg and Gettysburg Address PowerPoint Presentation 
+2015-01-27 22:19:50,364 INFO  [SmokeTest] Test result typed :Battle of Gettysburg and Gettysburg Address PowerPoint Presentation 
+2015-01-27 22:19:50,372 ERROR [SmokeTest] Product matched for position[2] 
+2015-01-27 22:19:50,374 INFO  [SmokeTest] Book name : Phrayzlers: Animated Word Puzzles Challenging set 
+2015-01-27 22:19:50,390 INFO  [SmokeTest] Test result typed :Phrayzlers: Animated Word Puzzles Challenging set 
+2015-01-27 22:19:50,397 ERROR [SmokeTest] Product matched for position[3] 
+2015-01-27 22:19:50,398 INFO  [SmokeTest] Book name : Phrayzlers: Animated Word Puzzles High School set 
+2015-01-27 22:19:50,412 INFO  [SmokeTest] Test result typed :Phrayzlers: Animated Word Puzzles High School set 
+2015-01-27 22:19:50,419 ERROR [SmokeTest] Product matched for position[4] 
+2015-01-27 22:19:50,429 INFO  [SmokeTest] 100th Day of School Mystery! Logic Puzzle for Early Primary 
+2015-01-27 22:19:50,437 INFO  [SmokeTest] Battle of Gettysburg and Gettysburg Address PowerPoint Presentation 
+2015-01-27 22:19:50,445 INFO  [SmokeTest] Phrayzlers: Animated Word Puzzles Challenging set 
+2015-01-27 22:19:50,451 INFO  [SmokeTest] Phrayzlers: Animated Word Puzzles High School set 
+2015-02-05 20:10:33,217 INFO  [SmokeTest] Book name : 100th Day of School Mystery! Logic Puzzle for Early Primary 
+2015-02-05 20:10:33,260 INFO  [SmokeTest] Test result typed :SCIENCE FAIR full curriculum program upper elementary (student worksheet packet) 
+2015-02-05 20:10:33,280 INFO  [SmokeTest] Book name : Battle of Gettysburg and Gettysburg Address PowerPoint Presentation 
+2015-02-05 20:10:33,299 INFO  [SmokeTest] Test result typed :SCIENCE FAIR full curriculum program upper elementary experiments (instr manual) 
+2015-02-05 20:10:33,312 INFO  [SmokeTest] Book name : Phrayzlers: Animated Word Puzzles Challenging set 
+2015-02-05 20:10:33,336 INFO  [SmokeTest] Test result typed :Pumpkins in October: Math, Science and Literacy Unit 
+2015-02-05 20:10:33,351 INFO  [SmokeTest] Book name : Phrayzlers: Animated Word Puzzles High School set 
+2015-02-05 20:10:33,374 INFO  [SmokeTest] Test result typed :Apples in September: Fall math and literacy unit 
+2015-02-05 20:10:33,397 INFO  [SmokeTest] SCIENCE FAIR full curriculum program upper elementary (student worksheet packet) 
+2015-02-05 20:10:33,408 INFO  [SmokeTest] SCIENCE FAIR full curriculum program upper elementary experiments (instr manual) 
+2015-02-05 20:10:33,419 INFO  [SmokeTest] Pumpkins in October: Math, Science and Literacy Unit 
+2015-02-05 20:10:33,428 INFO  [SmokeTest] Apples in September: Fall math and literacy unit 
+2015-02-05 20:20:17,162 INFO  [SmokeTest] Book name : SCIENCE FAIR full curriculum program upper elementary (student worksheet packet) 
+2015-02-05 20:20:17,194 INFO  [SmokeTest] Test result typed :8063 
+2015-02-05 20:20:17,212 INFO  [SmokeTest] Book name : SCIENCE FAIR full curriculum program upper elementary experiments (instr manual) 
+2015-02-05 20:20:17,225 INFO  [SmokeTest] Test result typed :8062 
+2015-02-05 20:20:17,235 INFO  [SmokeTest] Book name : Pumpkins in October: Math, Science and Literacy Unit 
+2015-02-05 20:20:17,252 INFO  [SmokeTest] Test result typed :8057 
+2015-02-05 20:20:17,262 INFO  [SmokeTest] Book name : Apples in September: Fall math and literacy unit 
+2015-02-05 20:20:17,275 INFO  [SmokeTest] Test result typed :8056 
+2015-02-05 20:20:17,314 INFO  [SmokeTest] 8063 
+2015-02-05 20:20:17,323 INFO  [SmokeTest] 8062 
+2015-02-05 20:20:17,330 INFO  [SmokeTest] 8057 
+2015-02-05 20:20:17,336 INFO  [SmokeTest] 8056 
+2015-02-05 20:23:38,349 INFO  [SmokeTest] Book name :  
+2015-02-05 20:23:38,388 INFO  [SmokeTest] Test result typed :8063 
+2015-02-05 20:23:38,402 INFO  [SmokeTest] Book name :  
+2015-02-05 20:23:38,415 INFO  [SmokeTest] Test result typed :8062 
+2015-02-05 20:23:38,424 INFO  [SmokeTest] Book name :  
+2015-02-05 20:23:38,439 INFO  [SmokeTest] Test result typed :8057 
+2015-02-05 20:23:38,448 INFO  [SmokeTest] Book name :  
+2015-02-05 20:23:38,460 INFO  [SmokeTest] Test result typed :8056 
+2015-02-05 20:23:38,476 INFO  [SmokeTest] 8063 
+2015-02-05 20:23:38,482 INFO  [SmokeTest] 8062 
+2015-02-05 20:23:38,488 INFO  [SmokeTest] 8057 
+2015-02-05 20:23:38,497 INFO  [SmokeTest] 8056 
