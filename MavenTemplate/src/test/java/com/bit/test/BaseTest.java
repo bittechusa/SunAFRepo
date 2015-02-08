@@ -1,4 +1,5 @@
-package com.bit.test;
+
+ackage com.bit.test;
 
 import org.apache.log4j.xml.DOMConfigurator;
 import org.openqa.selenium.WebDriver;

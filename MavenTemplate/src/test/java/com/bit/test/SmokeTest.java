@@ -33,7 +33,7 @@ public class SmokeTest extends BaseTest
 		
 		// Open the Excel file
         //FileInputStream fis = new FileInputStream("src/test/testdata/testdata.xls");
-        FileInputStream fis = new FileInputStream("src/test/testdata/affiliateLogin.xls");
+        FileInputStream fis = new FileInputStream("src/test/testdata/affiliateLogin.xlsx");
         // Access the required test data sheet
         HSSFWorkbook wb = new HSSFWorkbook(fis);
         HSSFSheet sheet = wb.getSheet("QA");
