@@ -4,7 +4,7 @@ public class Note
 /*	
 	Data type: 
 	Primitive Data type = (byte, short, int, long, float, double, boolean, char)
-	References data type = (tring, Scanner, Random, Die, int[], String[], etc.)
+	References data type = (String, Scanner, Random, Die, int[], String[], etc.)
 	
 	Return Type 
 	When a data type used for a method it's call Return Type:

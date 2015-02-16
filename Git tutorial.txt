@@ -1,4 +1,4 @@
-giHow to initilize a new repository
+ giHow to initilize a new repository
 1. go to github.com then login, then create new repository
 2. open git bash
 3. go to repository level
