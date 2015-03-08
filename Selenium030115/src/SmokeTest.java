@@ -20,16 +20,17 @@ public class SmokeTest extends BaseTest
 		dr.getTitle();//to get title
 		dr.getPageSource();//to get any text from any page
 		Actions a=new Actions(dr);
-		a.moveToElement(ele).perform();//mouseover
+		a.moveToElement(ele).perform();//mouse over
 		a.doubleClick(ele);//for double click
 		a.contextClick(ele);//for right mouse
 		dr.navigate().refresh();//for refress any page
 		dr.navigate().back();//for click back sign
-		dr.navigate().forward();//for forword
+		dr.navigate().forward();//for for word
 		dr.getCurrentUrl();
 		dr.findElement(By.xpath("")).getText();//get any text
 		dr.findElement(By.xpath("")).getAttribute("id");//to get any property value
 */		
+	}
 		public void m3()
 		{
 			
