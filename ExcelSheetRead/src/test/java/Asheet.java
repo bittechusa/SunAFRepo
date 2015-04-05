@@ -28,13 +28,15 @@ public class Asheet extends BaseTest
 	            String id = row.getCell(0).toString();
 	            String userid = row.getCell(1).toString();
 	            String password = row.getCell(2).toString();
-	            if (id.equalsIgnoreCase("1.0"))
+	            if (id.equals("1"))
 	            {
 	                System.out.println("hellos");
 	                dr.findElement(By.id("email")).sendKeys(userid);
 	                dr.findElement(By.id("pass")).sendKeys(password);
 	                dr.findElement(By.id("u_0_n")).click();
+	                //wb.close();
 	                break;
+	                
 	              
 	            }
 	            
